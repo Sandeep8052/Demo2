@@ -13,6 +13,7 @@ while($row=mysql_fetch_array($res,MYSQL_BOTH))
 <table  border="10px" align="center">
 <tr>
 <td ><b>Answer:</b></td>
+<td ><b>Answer:</b></td>
 <td>
 <?php    echo $row['answer'];
 	echo "<br/>";
@@ -23,9 +24,4 @@ while($row=mysql_fetch_array($res,MYSQL_BOTH))
 </html>
 <?php
 }
-?>
-
-<?php
-
-
 ?>
