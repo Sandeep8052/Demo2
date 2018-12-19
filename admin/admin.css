@@ -1,0 +1,130 @@
+#admin
+{
+height:100%;
+width:100%;
+border:1px solid auto;
+background-image:url('background-image.jpg');
+                   background-size:cover;
+}
+#admin1
+{
+	height:320px;
+    width:500px;
+    border:1px solid auto;
+    background-color:red;
+	
+	border-radius:20px 20px 20px 20px;
+}
+#admin2
+{
+	height:70px;
+    width:500px;
+    border:1px solid auto;
+    background-image:url('background-image.jpg');
+                   
+	font-size:60px;
+	border-radius:20px 20px 0px 0px;
+}
+#admin3
+{
+	height:184px;
+    width:500px;
+    border:1px solid auto;
+   background-image:url('background-image.jpg');
+                   background-size:cover;
+}
+#admin4
+{
+	height:80px;
+    width:500px;
+    border:1px solid auto;
+   background-image:url('background-image.jpg');
+                   background-size:cover;
+	
+	border-radius:0px 0px 20px 20px;
+}
+#admin5
+{
+	height:50px;
+    width:250px;
+    border:1px solid auto;
+   
+	
+}
+
+
+
+#field
+{
+	height:850px;
+	width:100%;
+	border:1px solid auto;
+	background-image:url('background-image.jpg');
+                   background-size:cover;
+	
+}
+#field2
+{
+	height:100px;
+	width:100%;
+    border:1px solid auto;
+	background-image:url('background-image.jpg');
+                   background-size:cover;
+	font-size:75px;
+	
+}
+#field3
+{
+	height:100px;
+	width:100%;
+                    border:1px solid;
+	background-image:url('background-image.jpg');
+                   background-size:cover;
+	font-size:20px;
+}
+#field3 ul
+{
+list-style-type:none;
+
+}
+#field3 ul li
+{
+border-radius:10px 10px 10px 10px;
+display:inline-block;
+padding:10px;
+width:200px;
+background-color:#007F66;
+text-align:center;
+}
+#field3 ul li a
+{
+text-decoration:none;
+color:white;
+}
+#field4
+{
+	height:650px;
+	width:270px;
+	border:1px solid auto;
+	background-color:#007F66;
+}
+.showuser
+{
+	height:650px;
+	width:1062px;
+	border:1px solid auto;
+	background-color:pink;
+	margin-top:-649px;
+	margin-left:268px;
+	
+}
+.showuser1
+{
+	height:auto;
+	width:1062px;
+	border:1px solid auto;
+	background-color:pink;
+	margin-top:-649px;
+	margin-left:268px;
+	
+}

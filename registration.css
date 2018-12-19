@@ -1,0 +1,28 @@
+#outer1
+{
+height:845px;
+width:100%;
+border:1px solid auto;
+background-image:url('image/113caa.jpg');   
+background-repeat:no-repeat; 
+}
+
+#outer2
+{
+	height:88px;
+	width:650px;
+	border:1px solid auto;
+	background-color:#465945;
+	font-size:50px;
+	border-radius:50px 50px 0px 0px;
+	margin-top:-5px;
+}
+
+#outer3
+{
+	height:757px;
+	width:650px;
+	border:1px solid auto;
+	background-color:#5F9EA0;
+	border-radius:0px 0px 50px 50px;
+}

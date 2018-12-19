@@ -1,0 +1,580 @@
+#outer
+{
+	height:auto;
+	width:1335px;
+	border:1px solid;
+	color:white;
+	background-color:#1C352D;
+	border-radius:0px 0px 50px 50px;
+}
+
+#header
+{
+	height:120px;
+	width:1335px;
+	background-color:#1C352D;
+	border:1px solid auto;
+	padding:1px;
+	
+	
+}
+
+#headerL
+{
+	height:120px;
+	width:120px;
+	float:left;
+	background-color:#1C352D;
+	background-image:url('image/bbbb.png');
+	background-repeat:no-repeat;
+    
+	
+}
+
+#headerR
+{
+	height:90px;
+	width:415px;
+	float:left;
+	background-color:#1C352D;
+	color:black;
+	font-size:32px;
+	margin-bottom:29px;
+}
+#header_R
+{
+	height:90px;
+	width:415px;
+	float:left;
+	background-color:#1C352D;
+	color:black;
+	font-size:32px;
+	margin-bottom:-79px;
+	
+}
+
+#header_RR
+{
+	height:50px;
+	width:355px;
+	float:left;
+	background-color:#1C352D;
+	color:white;
+	margin-left:15px;
+	margin-top:3px;
+	
+
+}
+
+#menu
+{
+	height:120px;
+	width:800px;
+	float:left;
+	background-color:#1C352D;
+	margin-left:-2px;
+}
+
+#menu ul
+{
+list-style-type:none;
+
+}
+#menu ul li
+{
+border-radius:20px 50px 30px 50px;
+display:inline-block;
+padding:10px;
+width:110px;
+background-color:#007F66;
+text-align:center;
+}
+#menu ul li a
+{
+text-decoration:none;
+color:white;
+}
+#menu li:hover{
+background-color:gray;
+border-radius:50px 0px 50px 0px;
+}
+
+#menu2
+{
+	height:45px;
+	width:400px;
+	background-color:#1C352D;
+	margin-left:400px;
+	margin-top:-15px;
+	
+}
+#menu2 ul
+{
+list-style-type:none;
+
+}
+#menu2 ul li
+{
+font-size:20px;
+border-radius:50px 0px 50px 0px;
+display:inline-block;
+padding:10px;
+width:110px;
+background-color:#1C352D;
+list-style-type:none;
+}
+#menu2 ul li a
+{
+text-decoration:none;
+color:white;
+}
+#menu2 li:hover{
+background-color:#007F66;
+}
+
+
+#down
+{
+	height:35px;
+	width:1335px;
+	background-color:#007F66;
+                   color:white;
+}
+#image
+{
+	height:400px;
+	width:1335px;
+	border:1px solid;
+}
+
+#imageR
+{
+	height:400px;
+	width:1335px;
+	float:left;
+	background-color:olive;
+	opacity:0.5;
+	box-shadow:inset -20px -50px 80px 5px #999999;
+}
+#footer
+{
+	height:60px;
+	width:1335px;
+	border:1px solid white;
+	margin-top:-2px;
+}
+#footer1
+{
+	height:60px;
+	width:445px;
+	background-color:#007F66;
+	float:left;
+                    color:white;
+}
+#footer2
+{
+                    color:white;
+	height:60px;
+	width:445px;
+	float:left;
+	background-color:#007F66;
+}
+#footer3
+{
+	height:60px;
+	width:445px;
+	float:left;
+	background-color:#007F66;
+                    color:white;
+	
+}
+
+#up
+{
+	height:35px;
+	width:1335px;
+	background-color:black;
+	border:1px solid auto;
+}
+
+#up1
+{
+	height:35px;
+	height:35px;
+	width:235px;
+	background-color:#666699;
+	float:left;
+	border-radius:0%; 
+}
+
+#up2
+{
+	height:35px;
+	width:367px;
+	background-color:white;
+	float:left;
+	border-radius:0%;
+}
+
+#up3
+{
+	height:35px;
+	width:366px;
+	background-color:white;
+	float:left;
+	border-radius:0%;
+}
+
+#up4
+{
+	border-radius:0%;
+	height:35px;
+	width:367px;
+	background-color:white;
+	float:left;
+}
+	
+}
+#slide
+{
+	height:300px;
+	width:1335px;
+	border:1px solid pink;
+}
+
+
+#slide1
+{
+	height:300px;
+	width:235px;
+	background-color:#666699;
+                    float:left;
+                     color:white;
+}
+
+
+#slide2
+{
+	height:300px;
+	width:1100px;
+    background-color:pink;
+    float:left;
+}
+#appleleptop
+{
+	height:300px;
+	width:367px;
+	background-color:white;
+	float:left;
+}
+#rappleleptop
+{
+	height:200px;
+	width:300px;
+	background-color:green;
+	float:left;
+	margin-left:55px;
+	background-image:url('image/Apple_Macbook_Pro_15_35781448-40766.jpg');
+	border-radius:50%;
+}
+#prise1
+{
+	height:110px;
+	width:367px;
+	background-color:blue;
+}
+
+#dellleptop
+{
+	height:300px;
+	width:366px;
+	background-color:white;
+	float:left;
+}
+#rdellleptop
+{
+	height:200px;
+	width:300px;
+	background-color:red;
+	float:left;
+	margin-left:35px;
+	background-image:url('image/OriginalPng1.png');
+	border-radius:10%;
+}
+#prise2
+{
+	height:110px;
+	width:367px;
+	background-color:white;
+}
+
+#hpleptop
+{
+	height:300px;
+	width:367px;
+	background-color:white;
+	float:left;
+}
+
+#rhpleptop
+{
+	height:200px;
+	width:300px;
+	background-color:pink;
+	float:left;
+	margin-left:35px;
+	background-image:url('image/51gmSzLFsULaaa.jpg');
+	border-radius:10%;
+}
+#prise3
+{
+	height:110px;
+	width:367px;
+	background-color:white;
+}
+
+#up11
+{
+	height:35px;
+	width:1335px;
+	background-color:black;
+	border:1px solid white;
+}
+
+#up12
+{
+	height:35px;
+	width:235px;
+	background-color:#5D3954;
+	float:left;
+	border-radius:0%;
+	margin-left:-1px;
+}
+#up13
+{
+	height:35px;
+	width:367px;
+	background-color:white;
+	float:left;
+	border-radius:0%;
+}
+
+#up14
+{
+	height:35px;
+	width:366px;
+	background-color:white;
+	float:left;
+	border-radius:0%;
+}
+
+#up15
+{
+	border-radius:0%;
+	height:35px;
+	width:367px;
+	background-color:white;
+	float:left;
+}
+	
+
+
+#slide11
+{
+	height:300px;
+	width:1335px;
+	border:1px solid;
+}
+#slide12
+{
+	height:300px;
+	width:235px;
+	background-color:#5D3954;
+    float:left;
+	margin-left:-1px;
+	color:black
+}
+#slide13
+{
+	height:300px;
+	width:1100px;
+    background-color:olive;
+    float:left;
+	
+}
+#appledesktop
+{
+	height:300px;
+	width:367px;
+	background-color:white;
+	float:left;
+}
+#rappledesktop
+{
+	height:200px;
+	width:300px;
+	background-color:white;
+	float:left;
+	margin-top:0px;
+	margin-left:33px;
+	background-image:url('image/113cb.jpg');
+	border-radius:10%;
+	background-repeat:no-repeat;
+}
+#prise11
+{
+	height:60px;
+	width:367px;
+	background-color:white;
+}
+
+#delldesktop
+{
+	height:300px;
+	width:366px;
+	background-color:white;
+	float:left;
+}
+#rdelldesktop
+{
+	height:200px;
+	width:300px;
+	background-color:white;
+	float:left;
+	margin-top:0px;
+	margin-left:33px;
+	background-image:url('image/211.jpg');
+	border-radius:10%;
+	background-repeat:no-repeat;
+}
+#prise12
+{
+	height:60px;
+	width:367px;
+	background-color:white;
+}
+
+#hpdesktop
+{
+	height:300px;
+	width:367px;
+	background-color:white;
+	float:left;
+}
+#rhpdesktop
+{
+	height:200px;
+	width:300px;
+	background-color:pink;
+	margin-top:0px;
+	margin-left:33px;
+	background-image:url('image/HPp62005UK2._V165305585_1.jpg');
+	border-radius:10%;
+}
+#prise13
+{
+	height:30px;
+	width:367px;
+	background-color:white;
+	margin-top:-0px;
+}
+#dfooter
+{
+	margin-top:-125px;
+	height:60px;
+	width:1335px;
+	background-color:#1C352D;
+	border-radius:0px 0px 50px 50px;
+	border:1px solid auto;
+                    color:white;
+}
+
+#Lside
+{
+	height:335px;
+	width:235px;
+	border:1px solid auto;
+	background-color:#666699;
+	float:left;
+	
+}
+#LUside
+{
+	height:35px;
+	width:235px;
+	background-color:#666699;
+	border:1px solid;
+	margin-top:-2px;
+}
+#LDside
+{
+	height:300px;
+	width:235px;
+	background-color:#666699;
+	border:1px solid;
+	margin-top:-2px;
+}
+#Dside
+{
+	height:335px;
+	width:235px;
+	border:1px solid auto;
+	background-color:#5D3954;
+	border:1px solid auto;
+}
+#DUside
+{
+	height:35px;
+	width:235px;
+	background-color:#5D3954;
+	border:1px solid auto;
+	margin-top:-2px;
+}
+#DDside
+{
+	height:280px;
+	width:235px;
+	background-color:#5D3954;
+	border:1px solid auto;
+	margin-top:-2px;
+}
+.Rside
+{
+	height:670px;
+	width:1100px;
+	border:1px solid auto;
+	background-color:white;
+	float:left;
+}
+.product
+{
+	height:300px;
+	width:360px;
+	border:1px auto;
+	float:left;
+	
+}
+.image
+{
+	height:250px;
+	width:360px;
+	border:1px solid;
+	
+}
+.button
+{
+	height:50px;
+	width:360px;
+	border:1px solid;
+}
+
+#desktopfooter
+{
+	height:70px auto ;
+	width:1335px;
+	border:1px solid auto;
+	border-radius:0px 0px 50px 50px;
+    margin-top:667px;
+	margin-left:0px;
+	background-color:#1C352D;
+	}
