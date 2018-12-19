@@ -24,3 +24,8 @@ while($row=mysql_fetch_array($res,MYSQL_BOTH))
 <?php
 }
 ?>
+
+<?php
+
+
+?>
