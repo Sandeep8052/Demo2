@@ -29,6 +29,15 @@ $res=mysql_query($query);
 			margin:0px auto;
 			margin-top:0px;
 		}
+		.main1
+		{
+			height:450px;
+			width:400px;
+			border:1px solid black;
+			background-color:white;
+			margin:0px auto;
+			margin-top:0px;
+		}
 		.productimage
 		{
 			height:300;
